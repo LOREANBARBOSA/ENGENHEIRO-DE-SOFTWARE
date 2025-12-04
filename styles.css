@@ -1,0 +1,11 @@
+body {background-image: url(Fundo.jpeg); 
+    
+    display: block;
+    background-size: contain;
+        background-color: rgb(0,0,0,0.6); background-blend-mode: darken;}
+
+        #PAUSE{font-size: 100px; color: darkblue; background-color: aqua;
+        margin;2px padding: 30px; font-weight:20px;
+        width: 700px;
+        height: 250px;
+        }
